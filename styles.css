@@ -1,0 +1,15 @@
+header{
+  background-color: lightblue;
+  text-align: center;
+  font-size: 30px
+}
+.ENIAC{
+   background-color: black;
+   text-align: center;
+   color: white;
+}
+.IBM{
+  background-color: darkred;
+  color: white;
+  text-align: center;
+}
