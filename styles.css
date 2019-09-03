@@ -1,16 +1,25 @@
 header{
-  background-color: lightblue;
+  background-color: #6495ED;
   text-align: center;
-  font-size: 30px
+  font-size: 30px;
 }
 .ENIAC{
-   background-color: black;
+   background-color: rgb(208, 157, 204);
    text-align: center;
    color: white;
 }
 .IBM{
-  background-color: darkred;
+  background-color: #DC143C;
+  color: white;
+  text-align: center
+  }
+.apple{
+background-color: #B0C4DE;
+color: white;
+text-align: center;
+}
+.Windows{
+  background-color:#FF7F50;
   color: white;
   text-align: center;
-
 }
