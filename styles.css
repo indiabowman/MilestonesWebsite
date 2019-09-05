@@ -23,3 +23,25 @@ text-align: center;
   color: white;
   text-align: center;
 }
+.Today{
+  background-color: #DAA520;
+  color: white;
+  text-align: center;
+}
+#Now{
+  font-family: font-family: Arial,Helvetica,sans-serif;
+
+}
+#Computer{
+  font-family:Arial, Helvetica, sans-serif;
+}
+#Jobs{
+  font-family: Arial, Helvetica, sans-serif;
+}
+#Microsoft{
+  font-family: Arial, Helvetica, sans-serif;
+}
+#Program{
+  font-family: Arial, Helvetica, sans-serif;
+
+}
